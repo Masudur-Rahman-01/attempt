@@ -1,0 +1,14 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "This is a mobile and react developers",
+  "main": "index.js",
+  "scripts": {
+    "attempt": "json-server --watch db.json --port 5050"
+  },
+  "author": "Masudur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

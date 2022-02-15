@@ -1,0 +1,28 @@
+{
+    "developers" : [
+        {
+                "id"        :1,
+                "name"      : "Azanur Rahman",
+                "age"       :9,
+                "skill"     : "JavaScript Developer",
+                "location"  : "Manikganj",
+                "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9FJsGxp8sF6u_PXrzLMUja_jZDIAGdrj8IqrMYaBRhZPVbYcY6ZdHSdUCc5gnEdhis0&usqp=CAU"
+        },
+        {
+            "id"        :2,
+            "name"      : "Ahadnur Hossain",
+            "age"       :9,
+            "skill"     : "IOS Developer",
+            "location"  : "Manikganj",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9FJsGxp8sF6u_PXrzLMUja_jZDIAGdrj8IqrMYaBRhZPVbYcY6ZdHSdUCc5gnEdhis0&usqp=CAU"
+        },
+        {
+            "id"        :3,
+            "name"      : "Jamal Sarkar",
+            "age"       :9,
+            "skill"     : "JavaScript Developer",
+            "location"  : "Manikganj",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9FJsGxp8sF6u_PXrzLMUja_jZDIAGdrj8IqrMYaBRhZPVbYcY6ZdHSdUCc5gnEdhis0&usqp=CAU"
+        }
+    ]
+}
